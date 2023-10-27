@@ -1,14 +1,14 @@
 .logomarca{
-    background: rgb(0, 0, 0);
+    background: rgb(255, 252, 252);
     text-align: center;
 }
  .logomarca{
     width: ;}
 .principal{
-    background-color: rgba(23, 97, 146, 0.767);
+    background-color: rgba(206, 24, 24, 0.767);
     text-align: center;
 }
 
-h1 {color: #eeeeee;}
+h1 {color: #85eb4a;}
 
-p{font-size: 50px;}
+p{font-size: 60px;}
