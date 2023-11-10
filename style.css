@@ -1,13 +1,16 @@
+*{margin: 0;
+    padding: 0px;
+}
+
 .logomarca{
     background: rgb(0, 0, 0);
     text-align: center;
 }
- .logomarca{
-    width: ;}
+
 .principal{
     background-color: rgba(197, 76, 76, 0.911);
     text-align: center;
-    padding: 15px
+    padding: 15px;
 }
 
 h1 {color: #fafff7;}
@@ -15,7 +18,7 @@ h1 {color: #fafff7;}
 p{font-size: 20px;
     color: #000000;}
 
-    h2{text-align: calc();}
+
  
 
  
