@@ -18,12 +18,13 @@ h1 {color: #fafff7;}
 p{font-size: 20px;
     color: #000000;}
 
-.itens{align-items: center;
+.itens{
     text-align: center;}
 .cardapio{
     background-image: linear-gradient( rgba(197, 76, 76, 0.911), rgb(49, 39, 39));
     text-align: center; 
 }
 
-.lista1{padding: 50px;}
+.lista1{padding: 50px;
+align-items: center;}
 .lista2{padding: 50px;}
