@@ -20,7 +20,7 @@ p{font-size: 20px;
 
 
 .cardapio{
-    background-image linear-gradient( rgba(204, 0, 0, 0.911),rgb(0, 0, 0);
+    background-image: linear-gradient ( rgba(204, 0, 0, 0.911),rgb(0, 0, 0);
     text-align: center; 
 }
 
